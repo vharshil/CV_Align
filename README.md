@@ -255,9 +255,12 @@ Admin Dashboard
 
 👨‍💻 Authors
 
--[@Vaishnavi](https://github.com/VA0910)
--[@Sharvani](https://github.com/sharvani2507)
--[@Jinay](https://github.com/jinay-mehta)
--[@Swayam](https://github.com/Swayam8115)
+👨‍💻 Authors
+
+- [@Vaishnavi](https://github.com/VA0910)
+- [@Sharvani](https://github.com/sharvani2507)
+- [@Jinay](https://github.com/jinay-mehta)
+- [@Swayam](https://github.com/Swayam8115)
+- [@Harshil](https://github.com/vharshil)
 
 <div align="center"> Built with 💼 and 💡 by the CV Align Team </div>
